@@ -209,16 +209,18 @@ let pondScope = ["duck", "realDuck"];
 
 // Code Here
 
-let age = 25
+const age = 25
 
 // FLASH FORWARD TO NEXT YEAR
 // reassign the value of age to be one greater than it was, because, we all get older
 
 // Code Here
 
-let age = (age + 1)
+age + 1
 
 // Good news! We can live forever. Set your age to 999
+
+age === 999
 
 // Code Here
 
